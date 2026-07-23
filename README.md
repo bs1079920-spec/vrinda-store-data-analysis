@@ -18,7 +18,7 @@ and inventory spend should go — delivered as an interactive Excel dashboard.
 ---
 
 ## Key Insights at a Glance
-![Key Insights](images/insights-summary.png)
+![Key Insights]
 
 ## Dashboard
 ![Vrinda Store Dashboard](images/DASHBOARD.jpeg)
